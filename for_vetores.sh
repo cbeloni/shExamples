@@ -1,3 +1,4 @@
+#!/bin/bash
 vec=( `cat valores.txt` ) 
 sum=0 
 for elemento in "${vec[@]}" 
